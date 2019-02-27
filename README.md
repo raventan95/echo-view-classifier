@@ -26,3 +26,12 @@ This Python file is tested on
 python classify.py
 ```
 5. Classification results are saved in `results.csv` file.
+
+## Sample results
+
+Here are 2 example outputs from the classifier, evaluated on the provided sample images. Both are correct predictions.
+
+| ![](sample/test/plax.png) |  ![](sample/test/a4c.png) |
+|:--:|:--:|
+| Prediction: *plax* | Prediction: *a4c* |
+| Confidence: 97.5% | Confidence: 98.3% |
