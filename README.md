@@ -31,7 +31,7 @@ python classify.py
 
 Here are 2 example outputs from the classifier, evaluated on the provided sample images. Both are correct predictions.
 
-| ![](sample/test/plax.png) |  ![](sample/test/a4c.png) |
+| ![](sample/test/test1.png) |  ![](sample/test/test2.png) |
 |:--:|:--:|
-| Prediction: *plax* | Prediction: *a4c* |
-| Confidence: 97.5% | Confidence: 98.3% |
+| Prediction: *plax* | Prediction: *psax-ap* |
+| Confidence: 99.6% | Confidence: 95.1% |
