@@ -29,7 +29,7 @@ python classify.py
 
 ## Sample results
 
-Here are 2 example outputs from the classifier, evaluated on the provided sample images. Both are correct predictions.
+Here are 2 example outputs from the classifier, evaluated on the provided sample images. Both are correct predictions. The sample images are obtained from public domain.
 
 | ![](sample/test/test1.jpg) |  ![](sample/test/test2.jpg) |
 |:--:|:--:|
